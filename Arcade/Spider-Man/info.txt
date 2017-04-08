@@ -1,0 +1,4 @@
+game_name = "Spider-Man"
+rom_config = "spidey.zip.cfg"
+overlay_config = "spidey.cfg"
+overlay_image = "spidey.png"
