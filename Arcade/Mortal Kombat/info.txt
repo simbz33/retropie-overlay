@@ -1,4 +1,4 @@
-game_name = "Mortal Kombat”
+game_name = "Mortal Kombat"
 rom_config = "mk.zip.cfg"
 overlay_config = "mk.cfg"
 overlay_image = "mk-ovl.png"
