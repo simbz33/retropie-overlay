@@ -1,0 +1,7 @@
+game_name = "Mario"
+rom_config = "mario.zip.cfg"
+overlay_config = "mario.cfg"
+overlay_image = "mario_simbz23-ovl.png"
+launching_image = "mario-launching.png"
+system = "arcade"
+creator = "simbz23"
