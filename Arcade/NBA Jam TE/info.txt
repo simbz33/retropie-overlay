@@ -1,0 +1,8 @@
+game_name = "NBA Jam TE”
+rom_config = "nbajamte.zip.cfg"
+overlay_config = "nbajamte.cfg"
+overlay_image = "nbajamte_simbz23-ovl.png"
+launching_image = "nbajamte-launching.png"
+system = "arcade"
+rom_clones = "nbajamt2"
+creator = "simbz23"
