@@ -1,0 +1,6 @@
+game_name = "NBA Jam"
+rom_config = "nbajam.zip.cfg"
+overlay_config = "nbajam.cfg"
+overlay_image = "nbajam_simbz23-ovl.png"
+launching_image = "nbajam-launching.png"
+system = "arcade"
