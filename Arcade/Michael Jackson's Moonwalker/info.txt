@@ -1,0 +1,7 @@
+game_name = "Michael Jackson's Moonwalker"
+system = "arcade"
+rom_config = "mwalk.zip.cfg"
+overlay_config = "mwalk.cfg"
+overlay_image = "mwalk_simbz23-ovl.png"
+launching_image = "mwalk-launching.png"
+Creator = "simbz23"
