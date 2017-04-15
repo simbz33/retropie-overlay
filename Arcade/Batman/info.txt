@@ -1,0 +1,6 @@
+game_name = "Batman"
+rom_config = "batman.zip.cfg"
+overlay_config = "batman.cfg"
+overlay_image = "batman_simbz23-ovl.png"
+launching_image = "batman-launching.png"
+system = "arcade"
