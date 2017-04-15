@@ -1,4 +1,4 @@
-game_name = "Mario"
+game_name = "Mario Bros."
 rom_config = "mario.zip.cfg"
 overlay_config = "mario.cfg"
 overlay_image = "mario_simbz23-ovl.png"
