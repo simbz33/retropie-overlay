@@ -1,0 +1,6 @@
+game_name = "Teenage Mutant Ninja Turtles"
+rom_config = "tmnt.zip.cfg"
+overlay_config = "tmnt.cfg"
+overlay_image = "tmnt_simbz23-ovl.png"
+launching_image = "tmnt-launching.png"
+system = "arcade"
