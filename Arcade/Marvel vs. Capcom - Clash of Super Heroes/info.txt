@@ -1,0 +1,7 @@
+game_name = "Marvel vs. Capcom - Clash of Super Heroes"
+rom_config = "mvsc.zip.cfg"
+overlay_config = "mvsc.cfg"
+overlay_image = "mvsc_simbz23-ovl.png"
+launching_image = "mvsc-launching.png"
+system = "arcade"
+creator = "simbz23”
