@@ -1,0 +1,7 @@
+game_name = "Superman"
+rom_config = "superman.zip.cfg"
+overlay_config = "superman.cfg"
+overlay_image = "superman_simbz23-ovl.png"
+launching_image = "superman-launching.png"
+system = "arcade"
+creator = "simbz23”
