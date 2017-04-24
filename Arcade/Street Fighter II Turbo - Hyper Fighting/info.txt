@@ -1,0 +1,7 @@
+game_name = "Street Fighter II Turbo - Hyper Fighting"
+system = "arcade"
+rom_config = "sf2hf.zip.cfg"
+overlay_config = "sf2hf.cfg"
+overlay_image = "sf2hf_simbz23-ovl.png"
+launching_image = "sf2hf-launching.png"
+creator = "simbz23"
