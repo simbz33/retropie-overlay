@@ -1,0 +1,7 @@
+game_name = "After Burner II"
+rom_config = "aburner2.zip.cfg"
+overlay_config = "aburner2.cfg"
+overlay_image = "aburner2_simbz23-ovl.png"
+launching_image = "aburner2-launching.png"
+system = "arcade"
+creator = "simbz23"
