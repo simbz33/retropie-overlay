@@ -1,0 +1,7 @@
+game_name = "Donkey Kong 3"
+rom_config = "dkong3.zip.cfg"
+overlay_config = "dkong3.cfg"
+overlay_image = "dkong3_simbz23-ovl.png"
+launching_image = "dkong3-launching.png"
+system = "arcade"
+creator = "simbz23"
